@@ -1,0 +1,9 @@
+.Todo-area{
+    margin: 20px;
+}
+.Todo-area ul li{list-style: none;}
+.list{margin-top: 10px;}
+.listbtn{font-size: 13px;
+    border: none;
+    margin-left: 5px;padding: 5px 10px;}
+.listbtn:hover{background: red;transition: .5s;color: white;}
